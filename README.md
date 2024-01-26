@@ -4,7 +4,7 @@ This project is an interactive 3D globe visualization built with React, Three.js
 
 The project also includes data visualization features, with data points plotted on the globe based on real-world coordinates.
 
-![Screenshot of the globe](src\files\globe-img.png) 
+![globe-img](https://github.com/7hourspg/react-three-globe-visualization/assets/98067649/01083772-dec5-4c36-838e-09bb16aed612)
 
 ## Features
 
